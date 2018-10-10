@@ -7,7 +7,7 @@ def countdown
   x -= 1
   if x = 0 
     break
-  puts "HAPPY NEW YEAR!"
 end
+puts "HAPPY NEW YEAR!"
 end
 end
