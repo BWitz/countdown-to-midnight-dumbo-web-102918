@@ -6,6 +6,7 @@ def countdown
   puts "#{x}"
   x -= 1
   if x = 0 
+    break
   puts "HAPPY NEW YEAR!"
 end
 end
