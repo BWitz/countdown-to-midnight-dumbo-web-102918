@@ -7,9 +7,7 @@ while x > 0
   x -= 1
   if x == 0
     break
-  end
-  end
-end
-end
+end 
+end 
 end
 return "HAPPY NEW YEAR!"
